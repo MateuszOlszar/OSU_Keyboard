@@ -1,0 +1,10 @@
+../App/Src/Led.c:41:6:create_px_stream	32	static
+../App/Src/Led.c:67:6:create_preambule_stream	24	static
+../App/Src/Led.c:73:6:create_matrix_stream	32	static
+../App/Src/Led.c:81:6:send_data_to_stoplight	8	static
+../App/Src/Led.c:88:6:update_matrix	16	static
+../App/Src/Led.c:96:6:sliding_right_anmation	24	static
+../App/Src/Led.c:109:6:sliding_left_animation	24	static
+../App/Src/Led.c:121:6:sliding_once	24	static
+../App/Src/Led.c:138:6:display_init	16	static
+../App/Src/Led.c:146:6:LED_Update	8	static

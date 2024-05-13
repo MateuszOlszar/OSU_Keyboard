@@ -12,11 +12,12 @@
 
 void App_Init()
 {
+	display_init();
 
 	while(1)
 	{
 		Buttons_Check();
-
+		LED_Update();
 	}
 }
 
